@@ -45,7 +45,7 @@ There are few things that I dont like about the standard package
     onNoObservers: Fire this function when there are no event observers\
 
 
-   -  **Illustration**\
+   -  **Illustration**
 
     
 ```javascript
