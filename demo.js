@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //demo file for the package
 let clockAbortHandler = function( ) {console.log('==============>>>>>> clock stopped')};
 let productAbortHandler = function( ) {console.log('==============>>>>>> products lookup stopped')};
@@ -128,5 +127,4 @@ function products( ) {
 
 function clock( ) {
     clock_sse.subscribe(display_clock);
->>>>>>> 5c3374067d0d17670aeded1199607fa2ffe49639
 }
