@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /**
  * @Alternate SSE (Alternate Server Sent Events)
  * @Features  (1): SSE - Pauseable, Resumable, Cancellable & Abortable
