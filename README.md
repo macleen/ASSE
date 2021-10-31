@@ -31,18 +31,18 @@ There are few things that I dont like about the standard package
 ```
 
    -  **FetchOptions**\
-    type => object of key value pairs:    
+    type => object of key value pairs:\    
     path: server endpoint --- optional is a path generator function is supplied
     headers: if any are needed
 
    -  **Options**\
     type => object of key value pairs:    
-    stopCount: 1..Infinity
-    intervalSeconds: 1..Infinity
-    onBeforeAbort: Fire this function before aborting
-    onBeforePause: Fire this function before pausing
-    onBeforeResume: Fire this function before resuming
-    onNoObservers: Fire this function when there are no event observers
+    stopCount: 1..Infinity\
+    intervalSeconds: 1..Infinity\
+    onBeforeAbort: Fire this function before aborting\
+    onBeforePause: Fire this function before pausing\
+    onBeforeResume: Fire this function before resuming\
+    onNoObservers: Fire this function when there are no event observers\
 
 
 
