@@ -86,7 +86,7 @@ There are few things that I dont like about the standard package
 
 ```
 
-   -  **Event management**\
+-  **Event management**
 
 ```javascript
 
