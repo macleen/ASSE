@@ -84,6 +84,11 @@ There are few things that I dont like about the standard package
         .subscribe(event_watcher_2)
         .subscribe(event_watcher_n)
 
+
+    // likewise when subscribing event watchers
+    ASSE.unsubscribe(event_watcher_2)
+        .unsubscribe(event_watcher_29)
+
 ```
 
 -  **Event management**
