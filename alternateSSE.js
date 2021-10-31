@@ -142,7 +142,7 @@ class AlternateSSE {
 
     /**
      * dispatches the event and sets the event data to be returned
-     * @accessType public     
+     * @accessType private     
      * @param {object} context theThis argument, default: null -> current
      * @param {boolean} freshStart indicator ( true: start - false: resume )
     */
