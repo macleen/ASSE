@@ -1,5 +1,5 @@
 # ASSE
->Alternate Server Sent Events package
+>Alternate Server Sent Events package (Version 2.0.0)
 
 
 ## Introduction
